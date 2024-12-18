@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Mishra</h1>
 <h3 align="center">I'm a motivated B.Tech graduate in Computer Science with a specialization in Data Science and a minor track in Management.</h3>
 
-- 🌱 I’m currently learning **Python, Django, MySQL, HTML, CSS & JavaScript**
+- 🌱 I’m currently learning **Python, Django, MySQL, Power BI, HTML, CSS & JavaScript**
 
 - 📫 How to reach me **amitbikky11@gmail.com**
 
